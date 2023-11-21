@@ -44,7 +44,9 @@ hierarquias existem dentro de cada produto digital de forma independente;
 
 **Pergunta**: como me torno membro oficial da Guilda Canudos?
 
-**Resposta**: você deve falar sozinho em voz alta as seguintes palavras: "sou membro oficial da Guilda Canudos" e acreditar nisso em seu coração. Mas isso não quer dizer que necessariamente todos projetos vão te aceitar;
+**Resposta**: você deve ficar sozinho, fechar os olhos e falar em voz alta as seguintes palavras: "sou membro oficial da Guilda Canudos" e acreditar nisso em seu coração. Mas isso não quer dizer que necessariamente todos projetos vão te aceitar;
+**Resposta**: se está interessado em entrar em um projeto da guilda, fale com os arquitetos que tem projetos propostos;
+**Resposta**: se está interessado em entrar em um projeto específico, deve falar com o arquiteto ou com o responsável pela governança do projeto, ver se há vagas para sua habilidade técnica.
 
 **Resposta**: peça ajuda a https://twitter.com/WFreiheitsberg para configurar seu keybase.
 
