@@ -46,7 +46,7 @@ hierarquias existem dentro de cada produto digital de forma independente;
 
 **Resposta**: você deve ficar sozinho, fechar os olhos e falar em voz alta as seguintes palavras: "sou membro oficial da Guilda Canudos" e acreditar nisso em seu coração. Mas isso não quer dizer que necessariamente todos projetos vão te aceitar;
 **Resposta**: se está interessado em entrar em um projeto da guilda, fale com os arquitetos que tem projetos propostos;
-**Resposta**: se está interessado em entrar em um projeto específico, deve falar com o arquiteto ou com o responsável pela governança do projeto, ver se há vagas para sua habilidade técnica.
+**Resposta**: se está interessado em entrar em um projeto específico, deve falar com o arquiteto ou com o responsável pela governança do projeto, ver se há disposição de associação ou vagas para sua habilidade técnica.
 
 **Resposta**: peça ajuda a https://twitter.com/WFreiheitsberg para configurar seu keybase.
 
@@ -65,6 +65,7 @@ Eu sei que não consigo manter a manutenção de diversos produtos sozinho, nem 
 ## Sobre meus projetos
 - Todos meus projetos conterão uma versículos bíblico no início do README.md como uma divisa, indicando que é um produto que estou consagrando ao Senhor Jesus Cristo, Rei dos cristãos;
 - 95% de meus projetos serão em typescript e se houver client será feito em angular;
+- se você pegar um projeto meu no inicio, geralmente irei negociar com você em % do produtos digital, mas as doações dos meus projetos nos qrcodes do readme.md do repositório são sempre minhas, os outros mecanismos de capitalização são distribuídos entre os proprietários e/ou usado pra manter a infra e manutenção do projeto se necessário.
 
 Cada projeto participa de um ou mais propósito geral, isto é, um direcionamento principal para qual todos os meus produtos digitais serão desenvolvidos, são estes propósitos:
 1. **ferramentas de apoio a saída do Legacy**:
