@@ -1,10 +1,6 @@
 > Mateus 5
-> ⁴³ Ouvistes que foi dito: Amarás o teu próximo, e odiarás o teu inimigo.
-> ⁴⁴ Eu, porém, vos digo: Amai a vossos inimigos, bendizei os que vos maldizem, fazei bem aos que vos odeiam, e orai pelos que vos maltratam e vos perseguem; para que sejais filhos do vosso Pai que está nos céus;
-> ⁴⁵ Porque faz que o seu sol se levante sobre maus e bons, e a chuva desça sobre justos e injustos.
-> ⁴⁶ Pois, se amardes os que vos amam, que galardão tereis? Não fazem os publicanos também o mesmo?
-> ⁴⁷ E, se saudardes unicamente os vossos irmãos, que fazeis de mais? Não fazem os publicanos também assim?
-> ⁴⁸ Sede vós pois perfeitos, como é perfeito o vosso Pai que está nos céus. 
+>
+> ⁴³ Ouvistes que foi dito: Amarás o teu próximo, e odiarás o teu inimigo. ⁴⁴ Eu, porém, vos digo: Amai a vossos inimigos, bendizei os que vos maldizem, fazei bem aos que vos odeiam, e orai pelos que vos maltratam e vos perseguem; **para que sejais filhos do vosso Pai que está nos céus, ⁴⁵ porque faz que o seu sol se levante sobre maus e bons, e a chuva desça sobre justos e injustos.** ⁴⁶ Pois, se amardes os que vos amam, que galardão tereis? Não fazem os publicanos também o mesmo? ⁴⁷ E, se saudardes unicamente os vossos irmãos, que fazeis de mais? Não fazem os publicanos também assim? ⁴⁸ Sede vós pois perfeitos, como é perfeito o vosso Pai que está nos céus. 
 
 # Guilda Canudos
 
