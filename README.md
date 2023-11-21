@@ -65,19 +65,19 @@ Eu sei que não consigo manter a manutenção de diversos produtos sozinho, nem 
 - 95% de meus projetos serão em typescript e se houver client será feito em angular;
 
 Cada projeto participa de um ou mais propósito geral, isto é, um direcionamento principal para qual todos os meus produtos digitais serão desenvolvidos, são estes propósitos:
-1. ferramentas de apoio a saída do Legacy:
+1. **ferramentas de apoio a saída do Legacy**:
 Neste propósito agrupa-se:
  - protestos de efeito práticos em prol de liberdade de expressão no formato de produtos digitais;
  - software e jogos educativos, instruindo sobre o funcionamento do bitcoin e sobre o libertarianismo e sociedades consensuais (twitter parody, omegle on nostr);
  - ferramentas que ajudem outros agoristas (private qrcode, time2blocks).
 
-2. terraformação:
+2. **terraformação**:
 Neste propósito agrupa-se:
  
  - ferramentas de apoio de manutenção e ferramentas de automação de manutenção de agrofloresta;
  - ferramentas de apoio a profissionais de reciclagem e automação de reciclagem;
 
-3. anúncio do Evangelho do Senhor Jesus Cristo:
+3. **anúncio do Evangelho do Senhor Jesus Cristo**:
  - todos os meus produtos são trabalho oferecido ao Senhor Jesus Cristo.
 
 ## Documentações gerais
