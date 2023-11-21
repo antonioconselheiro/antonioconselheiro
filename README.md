@@ -36,7 +36,7 @@ _working from individuals to individuals_
 
 **Pergunta**: qual a hierarquia da Guilda Canudos?
 
-**Resposta**: não há governança ou hierarquia na guilda, todos tem a mesma voz e as ferramentas oficiais são as vocês adotarem em seus projetos ou para interagir entre vocês, as governanças e 
+**Resposta**: não há governança ou hierarquia na guilda, todos tem a mesma voz e as ferramentas oficiais são as que vocês adotarem em seus projetos ou para interagir entre vocês, as governanças e 
 hierarquias existem dentro de cada produto digital de forma independente;
 
 **Resposta**: pode ser que eventualmente seja elaborado algo para informar sobre a reputação de membros ou de pessoas que passaram pela guilda, mas só temos pretenção de trabalhar em algo assim se ocorrer uma situação desagradável o suficiente para ter que registrar documentar uma situação de má fé, por exemplo. No geral, a reputação positivo é computada pelos projetos que você participou.
