@@ -1,0 +1,16 @@
+{
+  "name": "Existing Docker Compose (Extend)",
+  "dockerComposeFile": [
+    "docker-compose.yml"
+  ],
+  "service": "antonioconselheiro-dev",
+	"workspaceFolder": "/antonioconselheiro",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"eamodio.gitlens",
+				"manishsencha.readme-preview"
+			]
+		}
+	}
+}
