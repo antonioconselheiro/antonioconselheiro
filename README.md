@@ -25,7 +25,7 @@ Neste propósito agrupa-se:
  - ferramentas de apoio a profissionais de reciclagem e automação de reciclagem;
 
 3. **anúncio do Evangelho do Senhor Jesus Cristo**:
- - todos os meus produtos são trabalho oferecido ao Senhor Jesus Cristo.
+ - todos os meus produtos são trabalho oferecido ao Senhor Jesus Cristo e este é meu testemunho prático a respeito da Verdade do Evangelho.
 
 - [Sobre a guilda](GUILD.md)
 - [manuscritos do verdadeiro antónio conselheiro (brasiliana volume 355.pdf)](https://drive.google.com/file/d/14O3Gs0tOUNTKRbzlBx4F3Mssg8pgZ8lE/view)
