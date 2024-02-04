@@ -12,6 +12,7 @@ Eu sei que não consigo manter a manutenção de diversos produtos sozinho, muit
 - se você pegar um projeto meu no inicio, geralmente irei negociar com você em % do produtos digital, mas as doações dos meus projetos nos qrcodes do readme.md do repositório são sempre minhas, os outros mecanismos de capitalização são distribuídos entre os proprietários e/ou usado pra manter a infra e manutenção do projeto se necessário.
 
 Cada projeto participa de um ou mais propósito geral, isto é, um direcionamento principal para qual todos os meus produtos digitais serão desenvolvidos, são estes propósitos:
+
 **ferramentas de apoio a saída do Legacy e apaziguamento da polarização**:
 Neste propósito agrupa-se:
  - protestos de efeito práticos em prol de liberdade de expressão no formato de produtos digitais (twitter parody, omegle on nostr);
