@@ -12,19 +12,13 @@ Eu sei que não consigo manter a manutenção de diversos produtos sozinho, muit
 - se você pegar um projeto meu no inicio, geralmente irei negociar com você em % do produtos digital, mas as doações dos meus projetos nos qrcodes do readme.md do repositório são sempre minhas, os outros mecanismos de capitalização são distribuídos entre os proprietários e/ou usado pra manter a infra e manutenção do projeto se necessário.
 
 Cada projeto participa de um ou mais propósito geral, isto é, um direcionamento principal para qual todos os meus produtos digitais serão desenvolvidos, são estes propósitos:
-1. **ferramentas de apoio a saída do Legacy e apaziguamento da polarização**:
+**ferramentas de apoio a saída do Legacy e apaziguamento da polarização**:
 Neste propósito agrupa-se:
  - protestos de efeito práticos em prol de liberdade de expressão no formato de produtos digitais (twitter parody, omegle on nostr);
  - software e jogos educativos, instruindo sobre o funcionamento do bitcoin e sobre o libertarianismo e sociedades consensuais (ainda nenhum);
  - ferramentas que ajudem outros agoristas (private qrcode, time2blocks).
 
-2. **terraformação**:
-Neste propósito agrupa-se:
- 
- - ferramentas de apoio de manutenção e ferramentas de automação de manutenção de agrofloresta;
- - ferramentas de apoio a profissionais de reciclagem e automação de reciclagem;
-
-3. **anúncio do Evangelho do Senhor Jesus Cristo**:
+**anúncio do Evangelho do Senhor Jesus Cristo**:
  - todos os meus produtos são trabalho oferecido ao Senhor Jesus Cristo e este é meu testemunho prático a respeito da Verdade do Evangelho.
 
 - [Sobre a guilda](GUILD.md)
