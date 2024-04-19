@@ -16,7 +16,6 @@ Cada projeto participa de um ou mais propósito geral, isto é, um direcionament
 **ferramentas de apoio a saída do Legacy e apaziguamento da polarização**:
 Neste propósito agrupa-se:
  - protestos de efeito práticos em prol de liberdade de expressão no formato de produtos digitais (twitter parody, omegle on nostr);
- - software e jogos educativos, instruindo sobre o funcionamento do bitcoin e sobre o libertarianismo e sociedades consensuais (ainda nenhum);
  - ferramentas que ajudem outros agoristas (private qrcode, time2blocks).
 
 **anúncio do Evangelho do Senhor Jesus Cristo**:
