@@ -44,14 +44,14 @@ hierarquias existem dentro de cada produto digital de forma independente;
 **Resposta**: se está interessado em entrar em um projeto da guilda, fale com os arquitetos que tem projetos propostos;
 **Resposta**: se está interessado em entrar em um projeto específico, deve falar com o arquiteto ou com o responsável pela governança do projeto, ver se há disposição de associação ou vagas para sua habilidade técnica.
 
-**Resposta**: peça ajuda a https://twitter.com/WFreiheitsberg para configurar seu keybase.
+**Resposta**: peça ajuda para configurar seu keybase.
 
 
 **Pergunta**: como faço para virar arquiteto da guilda?
 
 **Resposta**: proponha um projeto e implemente-o;
 
-**Resposta**: proponha um projeto, convença canuders a comprá-lo (no sentido de quem irão pagar com suas habilidades técnicas pra ter % do produto). Não fique triste se ninguém quiser fazer seu projeto, é normal termos sempre muitas ideias, nem sempre todas são boas ou nem sempre você consegue convencer todos apenas propondo a ideia, um pouco de software já feito é importante pra mostrar a seriedade de sua proposta.
+**Resposta**: proponha um projeto, convença os devs a comprá-lo (no sentido de quem irão pagar com suas habilidades técnicas pra ter % do produto). Não fique triste se ninguém quiser fazer seu projeto, é normal termos sempre muitas ideias, nem sempre todas são boas ou nem sempre você consegue convencer todos apenas propondo a ideia, um pouco de software já feito é importante pra mostrar a seriedade de sua proposta.
 
 ## Documentações gerais
 - https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html
