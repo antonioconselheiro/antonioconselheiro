@@ -25,7 +25,7 @@ _working from individuals to individuals_
 
 **Pergunta**: qual nicho desta guilda?
 
-**Resposta**: agoristas, programadores libertários técnicos de moralidade objetiva. Sendo assim, teremos experiências e produtos digitais utilizando onion, cypherpunk, nostr, bitcoin e lighting network;
+**Resposta**: agoristas, programadores libertários técnicos de moralidade objetiva. Sendo assim, teremos experiências e produtos digitais utilizando onion, nostr, bitcoin e lighting network;
 
 **Resposta**: programadores que as vezes se veem em ócio por causa do corporativismo e gostaria de pegar algo para codar de verdade no tempo livre, e que simpatiza com os princípios libertários.
 
