@@ -8,9 +8,10 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"eamodio.gitlens",
-				"manishsencha.readme-preview"
-			]
+        "eamodio.gitlens",
+        "manishsencha.readme-preview",
+        "PNiewiarowski.ob-theme"
+      ]
 		}
 	}
 }
