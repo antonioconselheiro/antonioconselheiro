@@ -1,0 +1,16 @@
+{
+  "names": {
+    "anarcanudos": "ff538df85b8d3e503f5b9f416a12cb5522f27e6edd247374964fc214c16cd309",
+    "btc2poke": "3c9b6600387f906a4c7b713ae9cf603b780d72a141cc6cd98e3700c06aeff970"
+  },
+  "relays": {
+    "ff538df85b8d3e503f5b9f416a12cb5522f27e6edd247374964fc214c16cd309": [
+      "wss://nos.lol",
+      "wss://br.purplerelay.com"
+    ],
+    "3c9b6600387f906a4c7b713ae9cf603b780d72a141cc6cd98e3700c06aeff970": [
+      "wss://af.purplerelay.com",
+      "wss://purplepag.es"
+    ]
+  }
+}
