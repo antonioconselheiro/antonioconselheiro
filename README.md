@@ -14,3 +14,5 @@ Neste propósito agrupa-se:
 
 **anúncio do Evangelho do Senhor Jesus Cristo**:
  - todos os meus produtos são trabalho oferecido ao Senhor Jesus Cristo e este é meu testemunho prático a respeito da Verdade do Evangelho.
+
+Maranata.
