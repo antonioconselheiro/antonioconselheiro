@@ -9,8 +9,8 @@ Esta conta de António Conselheiro é minha camada técnica para construir produ
 
 **ferramentas de apoio a saída do Legacy e apaziguamento da polarização**:
 Neste propósito agrupa-se:
- - protestos de efeito práticos em prol de liberdade de expressão no formato de produtos digitais (twitter parody, omegle on nostr);
- - ferramentas que ajudem outros agoristas (private qrcode, time2blocks).
+ - protestos de efeito práticos em prol de liberdade de expressão no formato de produtos digitais ([twitter parody](https://github.com/antonioconselheiro/twitter-parody), [omeglestr](https://antonioconselheiro.github.io/omeglestr/#/chat));
+ - ferramentas que ajudem outros agoristas ([private qrcode](https://antonioconselheiro.github.io/private-qrcode/#/home), [time2blocks](https://www.npmjs.com/package/@belomonte/time2blocks)).
 
 **anúncio do Evangelho do Senhor Jesus Cristo**:
  - todos os meus produtos são trabalho oferecido ao Senhor Jesus Cristo e este é meu testemunho prático a respeito da Verdade do Evangelho.
