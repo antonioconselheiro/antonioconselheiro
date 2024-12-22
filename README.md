@@ -5,13 +5,12 @@
 ## Sobre Mim
 Esta conta de António Conselheiro é minha camada técnica para construir produtos digitais capitalizados em bitcoin com o objetivo de migrar do sistema fiduciário.
 
-## Propósitos:
+## Propósitos das ferramentas:
 
-**ferramentas de empoderamento individual**:
-Neste propósito agrupa-se:
+**empoderamento individual agorista**:
  - ferramentas que ajudem outros agoristas ([private qrcode](https://antonioconselheiro.github.io/private-qrcode/#/home), [time2blocks](https://www.npmjs.com/package/@belomonte/time2blocks)).
 
-**ferramentas de reversão da subversão**:
+**reversão da subversão**:
  - protestos de efeito práticos em prol de liberdade de expressão no formato de produtos digitais ([twitter parody](https://github.com/antonioconselheiro/twitter-parody), [omeglestr](https://antonioconselheiro.github.io/omeglestr/#/chat));
 
 **anúncio do Evangelho do Senhor Jesus Cristo**:
