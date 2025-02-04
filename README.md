@@ -9,7 +9,7 @@ Estou construindo produtos digitais que pretendo capitalizar com bitcoin com o o
 As ferramentas se fundamentam nos seguintes propósitos:
 
 **empoderamento individual**:
- - te apoiar a armazenar informações privadas: ([private qrcode](https://antonioconselheiro.github.io/private-qrcode/#/home);
+ - te apoiar a armazenar informações privadas: ([private qrcode](https://antonioconselheiro.github.io/private-qrcode/#/home));
  - trazer a realidade meios de permitir que as pessoas que desejam, possam seguir os dez mandamentos (apps em rascunho ainda);
 
 **reversão da subversão**:
