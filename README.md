@@ -16,7 +16,7 @@ As ferramentas se fundamentam nos seguintes propósitos:
  - te avisar a respeito da escravidão mental que assola o mundo, transmitindo ideias no formato de protestos de efeito práticos no formato de produtos digitais em prol de sua liberdade individual: (série parody, com [twitter parody](https://github.com/antonioconselheiro/twitter-parody) [em desenvolvimento] e [omeglestr](https://antonioconselheiro.github.io/omeglestr/#/chat));
  - trazer a realidade meios de permitir que as pessoas que desejam, possam seguir os dez mandamentos (apps em rascunho ainda);
 
-**anúncio do Evangelho do Senhor Jesus Cristo**:
+**anúncio da Mensagem do Rei Jesus, o Messias**:
  - trazer a realidade meios de permitir que as pessoas que desejam, possam seguir os dez mandamentos (apps em rascunho ainda);
  - todos os meus produtos são trabalho oferecido ao Rei Jesus, o Messias, os projetos são meu testemunho prático a respeito da Verdade do Evangelho.
 
